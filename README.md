@@ -8,17 +8,23 @@ Clone the repository:
 
 bash
 Copy code
+```
 git clone https://github.com/[your_username]/[your_project_name].git
 cd [your_project_name]
+```
 Install the dependencies with pip:
 
 Copy code
+```
 pip install -r requirements.txt
+```
 Set your OpenAI API keys as environment variables. You can set them in a .env file:
 
 makefile
 Copy code
+```
 OPENAI_API_KEY=your_api_key
+```
 Usage
 To start the app, run the following command in your terminal:
 
