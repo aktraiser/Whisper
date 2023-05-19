@@ -1,6 +1,6 @@
 # Whisper
 
-(https://youtu.be/Hk4_Hks4xmI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hk4_Hks4xmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 This project uses OpenAI's automatic speech recognition system, Whisper, to transcribe audio files, and then uses the language model GPT-3 to perform sentiment analysis on the transcriptions.
 
