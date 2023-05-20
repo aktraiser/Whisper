@@ -13,8 +13,8 @@ Clone the repository:
 bash
 Copy code
 ```
-git clone https://github.com/[your_username]/[your_project_name].git
-cd [your_project_name]
+git clone https://github.com/aktraiser/whisper.git
+cd whisper
 ```
 Install the dependencies with pip:
 
